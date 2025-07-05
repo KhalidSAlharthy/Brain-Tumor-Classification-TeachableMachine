@@ -27,7 +27,7 @@ These images were preprocessed and labeled before being used in training via Tea
 The dataset used for training was obtained from Kaggle:
 🔗 [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
-#🎯 Objective
+# 🎯 Objective
 The goal of this project is to:
 
 - Build a machine learning model capable of accurately detecting and classifying different types of brain tumors from MRI images.
@@ -48,7 +48,7 @@ The goal of this project is to:
 | **TensorFlow/Keras**  | Framework used to load and run the trained deep learning model.                |
 | **Matplotlib**        | Library used for visualizing images and prediction results.                    |
 
-#🧩 Custom Enhancements
+# 🧩 Custom Enhancements
 In addition to using the standard exported code from Teachable Machine, I added extra functionality to improve the output experience:
 
 ✅ Display the uploaded MRI image
@@ -59,7 +59,7 @@ In addition to using the standard exported code from Teachable Machine, I added 
 
 This enhancement allows for quick visual feedback on the input image and helps in interpreting the model's predictions more clearly.
 
-#💡 Example Output
+# 💡 Example Output
 
 Visual Output:
 ![Screenshot 2025-07-05 145029](https://github.com/user-attachments/assets/b9cc200a-5442-4d71-96d0-24c74c1c2e4c)
