@@ -27,7 +27,7 @@ These images were preprocessed and labeled before being used in training via Tea
 The dataset used for training was obtained from Kaggle:
 🔗 [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
-🎯 Objective
+#🎯 Objective
 The goal of this project is to:
 
 - Build a machine learning model capable of accurately detecting and classifying different types of brain tumors from MRI images.
