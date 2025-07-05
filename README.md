@@ -23,9 +23,11 @@ The MRI brain tumor dataset used for training contains a total of 5,712 images, 
 | Pituitary Tumor  | 1,457            |
 
 These images were preprocessed and labeled before being used in training via Teachable Machine.
+![dataset](https://github.com/user-attachments/assets/973ab780-1aaf-4ad0-adab-0ee59d45a0d0)
 
 The dataset used for training was obtained from Kaggle:
 🔗 [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
 
 # 🎯 Objective
 The goal of this project is to:
