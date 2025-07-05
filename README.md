@@ -62,9 +62,11 @@ This enhancement allows for quick visual feedback on the input image and helps i
 # 💡 Example Output
 
 Visual Output:
+
 ![Screenshot 2025-07-05 145029](https://github.com/user-attachments/assets/b9cc200a-5442-4d71-96d0-24c74c1c2e4c)
 
 Console Output:
+
 ![Screenshot 2025-07-05 145042](https://github.com/user-attachments/assets/5a79a3d8-7207-4c67-9fea-30038eb852b7)
 
 
