@@ -48,7 +48,7 @@ The goal of this project is to:
 | **TensorFlow/Keras**  | Framework used to load and run the trained deep learning model.                |
 | **Matplotlib**        | Library used for visualizing images and prediction results.                    |
 
-# 🧩 Custom Enhancements
+#🧩 Custom Enhancements
 In addition to using the standard exported code from Teachable Machine, I added extra functionality to improve the output experience:
 
 ✅ Display the uploaded MRI image
