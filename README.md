@@ -33,7 +33,7 @@ The dataset used for training was obtained from Kaggle:
 # 🎯 Objective
 The goal of this project is to:
 
-- Build a machine learning model capable of accurately detecting and classifying different types of brain tumors from MRI images.
+- capable model of accurately detecting and classifying different types of brain tumors from MRI images.
 
 - Make it easy to deploy and run the model using Python in a local environment.
 
